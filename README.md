@@ -82,7 +82,7 @@ This binary classification project uses audio features like danceability, energy
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone [https://github.com/VishnupriyanJ302/Hit-Song-Classifier.git]
 cd hit-song-classifier
 ```
 
